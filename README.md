@@ -17,6 +17,7 @@ May 13, 2019
 
 ### Query Language
 
+- [Pet Library](http://pet-library.moonhighway.com)
 - [Snowtooth Playground](http://snowtooth.moonhighway.com)
 - [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)

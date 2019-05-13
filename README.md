@@ -9,7 +9,7 @@ May 13, 2019
 - [Eve Twitter](https://www.twitter.com/eveporcello) | eve@moonhighway.com
 - [Moon Highway Mailing List](https://moonhighway.com)
 
-## GraphQL Workshop Links and Resources
+## Links and Resources
 
 - [Slides](https://slides.com/moonhighway/sem-js)
 - [Start Files](https://github.com/graphqlworkshop/snowtooth-api)

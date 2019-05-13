@@ -1,16 +1,18 @@
 # Getting Acquainted with GraphQL
 
-A hands-on intro to GraphQL and Apollo Server @ ReactNYC
-January 30, 2019
+A hands-on intro to GraphQL and Apollo Server
+May 13, 2019
 
-**Instructor: Eve Porcello**
-- [Twitter](https://www.twitter.com/eveporcello)
-- [Email](mailto:eve@moonhighway.com)
+**Presenters: Alex Banks & Eve Porcello**
+
+- [Alex Twitter](https://www.twitter.com/eveporcello) | alex@moonhighway.com
+- [Eve Twitter](https://www.twitter.com/eveporcello) | eve@moonhighway.com
 - [Moon Highway Mailing List](https://moonhighway.com)
 
 ## GraphQL Workshop Links and Resources
 
-- [Slides](https://slides.com/moonhighway/react-nyc)
+- [Slides](https://slides.com/moonhighway/sem-js)
+- [Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Finished Project](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
 
 ### Query Language

@@ -14,6 +14,7 @@ May 13, 2019
 - [Slides](https://slides.com/moonhighway/sem-js)
 - [Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Finished Project](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+- [egghead Playlist: Create Fullstack Applications with GraphQL, Apollo and React](https://egghead.io/playlists/create-fullstack-applications-with-graphql-and-apollo-794dc9c7)
 
 ### Query Language
 
